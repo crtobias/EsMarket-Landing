@@ -8,6 +8,8 @@ import Screen3 from "./components/screen3";
 export default function Home() {
   return (
     <div className="bg-blanco p-4 flex flex-col items-center justify-center min-h-screen">
+
+
       {/* Navbar */}
       <div className="w-full fixed top-0 z-50 bg-blanco shadow-md">
         <Navbar />
@@ -25,3 +27,4 @@ export default function Home() {
     </div>
   );
 }
+
