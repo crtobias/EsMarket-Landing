@@ -1,5 +1,5 @@
 # **Es Market - Gestión de Supermercados y Comercios**
-
+- Deploy: https://es-market-landing.vercel.app/
 **Es Market** es una aplicación móvil diseñada para optimizar la gestión de supermercados y comercios, permitiendo a los usuarios controlar de manera eficiente el manejo de empleados, precios, stock, ventas y el historial de transacciones. Ideal para dueños y administradores que buscan una solución todo en uno para administrar su negocio de manera ágil y sencilla.
 
 ## **Características Principales**
